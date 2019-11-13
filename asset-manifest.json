@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/react_homeworks/static/css/main.2bf821c1.chunk.css",
-    "main.js": "/react_homeworks/static/js/main.9a517c6b.chunk.js",
+    "main.css": "/react_homeworks/static/css/main.70b687eb.chunk.css",
+    "main.js": "/react_homeworks/static/js/main.876c6ed8.chunk.js",
     "runtime-main.js": "/react_homeworks/static/js/runtime-main.22eff9bd.js",
-    "static/js/2.b1baf088.chunk.js": "/react_homeworks/static/js/2.b1baf088.chunk.js",
+    "static/js/2.022f5e44.chunk.js": "/react_homeworks/static/js/2.022f5e44.chunk.js",
     "index.html": "/react_homeworks/index.html",
-    "precache-manifest.afe9c00764f4525d7708456fb2021496.js": "/react_homeworks/precache-manifest.afe9c00764f4525d7708456fb2021496.js",
-    "service-worker.js": "/react_homeworks/service-worker.js"
+    "precache-manifest.c2b2475f32aa5fadc2ce3758454fb589.js": "/react_homeworks/precache-manifest.c2b2475f32aa5fadc2ce3758454fb589.js",
+    "service-worker.js": "/react_homeworks/service-worker.js",
+    "static/media/252.png": "/react_homeworks/static/media/252.e45d9d1f.png"
   },
   "entrypoints": [
     "static/js/runtime-main.22eff9bd.js",
-    "static/js/2.b1baf088.chunk.js",
-    "static/css/main.2bf821c1.chunk.css",
-    "static/js/main.9a517c6b.chunk.js"
+    "static/js/2.022f5e44.chunk.js",
+    "static/css/main.70b687eb.chunk.css",
+    "static/js/main.876c6ed8.chunk.js"
   ]
 }
