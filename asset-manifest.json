@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react_homeworks/static/css/main.2bf821c1.chunk.css",
+    "main.js": "/react_homeworks/static/js/main.9a517c6b.chunk.js",
+    "runtime-main.js": "/react_homeworks/static/js/runtime-main.22eff9bd.js",
+    "static/js/2.b1baf088.chunk.js": "/react_homeworks/static/js/2.b1baf088.chunk.js",
+    "index.html": "/react_homeworks/index.html",
+    "precache-manifest.afe9c00764f4525d7708456fb2021496.js": "/react_homeworks/precache-manifest.afe9c00764f4525d7708456fb2021496.js",
+    "service-worker.js": "/react_homeworks/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.22eff9bd.js",
+    "static/js/2.b1baf088.chunk.js",
+    "static/css/main.2bf821c1.chunk.css",
+    "static/js/main.9a517c6b.chunk.js"
+  ]
+}
